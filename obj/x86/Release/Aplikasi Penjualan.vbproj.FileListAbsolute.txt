@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Release\Aplikasi Penjualan.exe.config
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Release\Aplikasi Penjualan.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Release\Aplikasi Penjualan.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Release\Aplikasi Penjualan.xml
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Form_Barang.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Form_Input_Barang.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Form_Lap_Barang.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Form_Menu.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Form_Penjualan.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi_Penjualan.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi Penjualan.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi Penjualan.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi Penjualan.xml
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Release\Aplikasi Penjualan.pdb

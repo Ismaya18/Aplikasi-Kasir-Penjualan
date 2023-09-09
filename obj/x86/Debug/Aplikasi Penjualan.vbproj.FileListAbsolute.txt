@@ -1,0 +1,26 @@
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Flash.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Tahunan.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Login.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_User.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Barang.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulanan.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Menu.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi_Penjualan.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi Penjualan.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Beta Mart.exe.config
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Beta Mart.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Beta Mart.application
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Beta Mart.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Beta Mart.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Beta Mart.xml
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Beta Mart.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Beta Mart.application
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Beta Mart.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Beta Mart.xml
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Beta Mart.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\Aplikasi Penjualan\Aplikasi Penjualan\obj\x86\Debug\Aplikasi Penjualan.vbprojResolveAssemblyReference.cache
